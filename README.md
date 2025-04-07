@@ -21,16 +21,15 @@ S is a **simple, clean, and powerful programming language** designed for:
 
 - ✅ **Readable syntax** (write logic like sentences)
 - ✅ **Multiple modes**: `basic`, `pro`, `education`
-- ✅ `plugins(...)` system for modular power
 - ✅ C++/Python/WinAPI compatibility
-- ✅ Fast performance (near C++ levels)
-- ✅ Open-source and expandable
+- ✅ Fast performance (almost C++ levels)
+- ✅ Not Really Open-source and expandable
 
 ---
 
 ## 📚 Learn S — Official Course
 
-📁 `/course` contains the **full official S Language Course**, including:
+📁 `/Full S Course` contains the **full official S Language Course**, including:
 
 | Level     | Topics Covered |
 |-----------|----------------|
