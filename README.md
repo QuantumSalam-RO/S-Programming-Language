@@ -38,15 +38,3 @@ S is a **simple, clean, and powerful programming language** designed for:
 | 🔴 Pro Mode | Performance, memory, plugins, game engines |
 
 > Even total beginners can learn to code and build real projects — fast.
-
----
-
-## 🧩 Plugins System
-
-Use `plugins(...)` to instantly bring in tools, libraries, and power-ups:
-
-```s
-plugins (raylib, SDL2)
-
-create_window("My Game", 800, 600)
-draw_circle(100, 100, 50)
